@@ -5,7 +5,6 @@ import sys
 sys.path.insert(0,'/usr/lib/pyshared/python2.7')
 
 import cv2
-import numpy as np
 
 from cvprocessor import hasNoBlack
 
